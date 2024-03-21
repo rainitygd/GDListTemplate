@@ -1,18 +1,18 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "rainity",
+        "link": "https://www.youtube.com/@rainitygmd"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "OniGenshin",
+        "link": "https://www.youtube.com/@onigenshin"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Ghost",
+        "link": "https://www.youtube.com/@fakedenni"
     },
     {
         "role": "trial",
@@ -21,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "rainity",
+        "link": "https://www.youtube.com/@rainitygmd"
     }
 ]
