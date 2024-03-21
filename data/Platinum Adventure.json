@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Platinum Adventure",
+    "author": "ItsJerry4vm",
+    "creators": ["ItsJerry4vm"],
+    "verifier": "ItsJerry4vm",
+    "verification": "https://www.youtube.com/watch?v=Xbqdd2RTLjc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "rainity",
+            "link": "https://www.youtube.com/watch?v=z6l74Mkoxm8",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
