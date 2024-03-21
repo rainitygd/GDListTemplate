@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "MasterGame",
+    "author": "Serponge",
+    "creators": ["Serponge"],
+    "verifier": "Serponge",
+    "verification": "https://www.youtube.com/watch?v=iAE3TjUcUq8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "rainity",
+            "link": "https://www.youtube.com/watch?v=z6l74Mkoxm8",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
