@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "demon mixed",
+    "author": "RealOggY",
+    "creators": ["RealOggY"],
+    "verifier": "RealOggY",
+    "verification": "https://www.youtube.com/watch?v=DnuDa_tktnY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "rainity",
+            "link": "https://www.youtube.com/watch?v=z6l74Mkoxm8",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
