@@ -14,5 +14,11 @@
             "percent": 100,
             "hz": 360
         }
+        {
+            "user": "Ghost",
+            "link": "https://www.youtube.com/watch?v=z6l74Mkoxm8",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
